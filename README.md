@@ -1,4 +1,8 @@
+machine learning engineer, dissecting and assembling neural networks, building the **Jam**, a community-based music recommendations app.
+
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **othorizedshogun/othorizedshogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
