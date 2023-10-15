@@ -1,4 +1,4 @@
-machine learning engineer, dissecting and assembling neural networks, building the **Jam**, a community-based music recommendations app.
+machine learning engineer, dissecting and assembling neural networks, building **Jam**, a community-based music recommendations app.
 
 <!--
 ### Hi there 👋
